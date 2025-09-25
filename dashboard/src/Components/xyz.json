@@ -1,0 +1,114 @@
+{
+    "TimeSinceEngineStart":{
+        "value": "00:13:08",
+        "unit": "HH:MM:SS"
+    },
+    "IntakeManifoldAbsolutePressure": {
+      "value": 55.00,
+      "unit": "kPa"
+    },
+    "EngineRPM": {
+      "value": 849.50,
+      "unit": "RPM"
+    },
+    "EngineCoolantTemperature": {
+      "value": 81.00,
+      "unit": "°C"
+    },
+    "VehicleSpeed": {
+      "value": 0.00,
+      "unit": "km/h"
+    },
+    "ThrottlePosition": {
+      "value": 15.60,
+      "unit": "%"
+    },
+    "IntakeAirTemperature": {
+      "value": 55.00,
+      "unit": "°C"
+    },
+    "CalculatedEngineLoad": {
+      "value": 27.60,
+      "unit": "%"
+    },
+    "FuelPressure": {
+      "value": 0.00,
+      "unit": "kPa"
+    },
+    "MAFAirFlowRate": {
+      "value": 0.00,
+      "unit": "g/s"
+    },
+    "FuelRailPressureRelativeToManifoldVacuum": {
+      "value": 0.00,
+      "unit": "kPa"
+    },
+    "FuelRailGaugePressure": {
+      "value": 0.00,
+      "unit": "kPa"
+    },
+    "CommandedEGR": {
+      "value": 0.00,
+      "unit": "%"
+    },
+    "FuelTankLevelInput": {
+      "value": 91.41,
+      "unit": "%"
+    },
+    "AbsoluteBarometricPressure": {
+      "value": 90.00,
+      "unit": "kPa"
+    },
+    "ControlModuleVoltage": {
+      "value": 13.64,
+      "unit": "V"
+    },
+    "AbsoluteLoadValue": {
+      "value": 32.80,
+      "unit": "%"
+    },
+    "CommandedAirFuelEquivalenceRatio": {
+      "value": 0.00
+    },
+    "RelativeThrottlePosition": {
+      "value": 4.40,
+      "unit": "%"
+    },
+    "AmbientAirTemperature": {
+      "value": 40.00,
+      "unit": "°C"
+    },
+    "AbsoluteEvapSystemVaporPressure": {
+      "value": 0.00,
+      "unit": "kPa"
+    },
+    "EngineOilTemperature": {
+      "value": 0.00,
+      "unit": "°C"
+    },
+    "RelativeAcceleratorPedalPosition": {
+      "value": 0.00,
+      "unit": "%"
+    },
+    "EngineFuelRate": {
+      "value": 0.00,
+      "unit": "L/h"
+    },
+    "DriversDemandEnginePercentTorque": {
+      "value": 0.00,
+      "unit": "%"
+    },
+    "ActualEnginePercentTorque": {
+      "value": 0.00,
+      "unit": "%"
+    },
+    "EngineReferenceTorque": {
+      "value": 0.00,
+      "unit": "N-m"
+    },
+    "CylinderFuelRate": {
+      "value": 0.00,
+      "unit": "mg/stroke"
+    }
+  }
+  
